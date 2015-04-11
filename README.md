@@ -1,3 +1,15 @@
+## Assignment Submission
+This is an assignment submitted as part of the Coursera course, Exploratory Data Analysis.
+
+#### Executing the R code
+* The source data file (`household_power_consumption.txt`) must be downloaded and extracted. [20Mb Zip](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
+* The source data file and all R scripts should be placed in the same directory.
+* Change the working directory to the directory containing the data file and R scripts.
+* Each of the four R scripts can be sourced to create a specific plot in png format.
+
+#### Original README
+---
+
 ## Introduction
 
 This assignment uses data from
